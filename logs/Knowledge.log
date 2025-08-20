@@ -6049,3 +6049,1212 @@ TimeoutError
 2025-08-20 14:56:21,043 - Knowledge - INFO - Updating org costs, total cost: 0.17774900000000013
 2025-08-20 14:56:21,594 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-20 14:56:21,914 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-20 15:43:59,542 - Knowledge - INFO - Redis support added with prefix knowledge:b62523c:
+2025-08-20 15:44:01,186 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-20 15:44:06,534 - Knowledge - INFO - Persisted knowledge files in /app/data/b2c/161508/b62523c/coocook-161508/.knowledge have been renamed to use .json
+2025-08-20 15:44:06,700 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:06,828 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:06,936 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/organization/members.js
+2025-08-20 15:44:07,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:07,137 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:07,222 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Badge.pm
+2025-08-20 15:44:07,338 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:07,421 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:07,544 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/ActionRole/Ajax.pm
+2025-08-20 15:44:07,644 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:07,758 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:07,881 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/TagGroup.pm
+2025-08-20 15:44:07,979 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:08,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:08,183 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/18/001-auto-__VERSION.yml
+2025-08-20 15:44:08,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:08,416 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:08,522 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/26/001-auto.sql
+2025-08-20 15:44:08,607 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:08,683 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:08,762 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/19/001-auto.sql
+2025-08-20 15:44:08,886 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:09,000 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:09,107 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Plan.t
+2025-08-20 15:44:09,229 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:09,352 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:09,450 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Filter/NumberSuffix.pm
+2025-08-20 15:44:09,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:09,665 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:09,785 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/27/001-auto-__VERSION.sql
+2025-08-20 15:44:09,931 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:10,013 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:10,092 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/BlacklistUsername.pm
+2025-08-20 15:44:10,181 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:10,287 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:10,397 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/9/001-auto-__VERSION.yml
+2025-08-20 15:44:10,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:10,650 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:10,760 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/25/001-auto-__VERSION.sql
+2025-08-20 15:44:10,860 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:10,977 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:11,084 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Terms.t
+2025-08-20 15:44:11,215 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:11,340 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:11,466 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Admin/FAQ.pm
+2025-08-20 15:44:11,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:11,664 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:11,785 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/18/001-auto-__VERSION.sql
+2025-08-20 15:44:11,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:11,996 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:12,085 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Organization.pm
+2025-08-20 15:44:12,199 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:12,321 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:12,444 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/test_data_v1.sql
+2025-08-20 15:44:12,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:12,674 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:12,776 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/27/001-auto-__VERSION.yml
+2025-08-20 15:44:12,898 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:13,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:13,103 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Helpers.pm
+2025-08-20 15:44:13,213 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:13,323 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:13,438 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/9/001-auto-__VERSION.sql
+2025-08-20 15:44:13,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:13,629 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:13,740 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Unit.pm
+2025-08-20 15:44:13,885 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:14,020 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:14,113 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/19/001-auto.yml
+2025-08-20 15:44:14,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:14,329 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:14,428 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/lib/Test/Coocook.pm
+2025-08-20 15:44:14,558 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:14,646 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:14,728 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/RecipeIngredient.pm
+2025-08-20 15:44:14,841 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:14,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:15,023 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/BlacklistEmail.pm
+2025-08-20 15:44:15,127 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:15,242 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:15,329 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Plan.pm
+2025-08-20 15:44:15,438 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:15,518 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:15,603 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/10/001-auto-__VERSION.sql
+2025-08-20 15:44:15,691 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:15,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:15,893 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/material-design-icons.css
+2025-08-20 15:44:16,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:16,106 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:16,202 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet.pm
+2025-08-20 15:44:16,339 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:16,433 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:16,558 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Email.pm
+2025-08-20 15:44:16,678 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:16,769 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:16,871 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/2/001-auto.yml
+2025-08-20 15:44:16,971 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:17,060 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:17,186 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Dish.pm
+2025-08-20 15:44:17,309 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:17,396 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:17,492 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/Filter_NumberSuffix.t
+2025-08-20 15:44:17,615 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:17,709 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:17,827 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/project/show.js
+2025-08-20 15:44:17,915 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:18,026 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:18,135 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/11/001-auto.yml
+2025-08-20 15:44:18,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:18,376 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:18,493 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/1/001-auto-__VERSION.sql
+2025-08-20 15:44:18,625 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:18,709 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:18,808 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/20/001-auto.sql
+2025-08-20 15:44:18,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:18,977 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:19,102 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/FAQ.pm
+2025-08-20 15:44:19,225 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:19,340 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:19,462 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Recipe.pm
+2025-08-20 15:44:19,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:19,696 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:19,837 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/10/001-auto-__VERSION.yml
+2025-08-20 15:44:19,969 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:20,058 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:20,173 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/1/001-auto-__VERSION.yml
+2025-08-20 15:44:20,280 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:20,365 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:20,456 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/11/001-auto.sql
+2025-08-20 15:44:20,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:20,679 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:20,800 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/DishIngredient.pm
+2025-08-20 15:44:20,883 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:20,962 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:21,048 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/Makefile.PL
+2025-08-20 15:44:21,178 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:21,301 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:21,393 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/2/001-auto.sql
+2025-08-20 15:44:21,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:21,632 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:21,743 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/20/001-auto.yml
+2025-08-20 15:44:21,871 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:21,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:22,131 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Browse/Project.pm
+2025-08-20 15:44:22,263 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:22,351 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:22,437 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/purchase_list/edit.css
+2025-08-20 15:44:22,570 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:22,661 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:22,769 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/recipe/import/preview.js
+2025-08-20 15:44:22,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:22,975 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:23,079 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/marked/marked.min.js
+2025-08-20 15:44:23,189 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:23,275 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:23,394 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Root.pm
+2025-08-20 15:44:23,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:23,601 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:23,709 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_install_web_dependencies.pl
+2025-08-20 15:44:23,804 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:23,917 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:24,001 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/PurchaseList.pm
+2025-08-20 15:44:24,125 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:24,210 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:24,298 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_sqlite2pgsql.sh
+2025-08-20 15:44:24,413 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:24,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:24,613 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/BlacklistUsername.pm
+2025-08-20 15:44:24,734 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:24,821 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:24,914 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/TraitFor/Request/DisableParam.pm
+2025-08-20 15:44:25,042 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:25,155 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:25,299 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Ajax.pm
+2025-08-20 15:44:25,413 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:25,496 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:25,607 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Article.pm
+2025-08-20 15:44:25,704 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:25,811 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:25,916 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_User.t
+2025-08-20 15:44:26,041 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:26,135 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:26,251 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/user/register.js
+2025-08-20 15:44:26,375 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:26,496 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:26,626 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Session.pm
+2025-08-20 15:44:26,741 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:26,825 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:26,937 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/TagGroup.pm
+2025-08-20 15:44:27,076 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:27,169 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:27,258 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/View/HTML.pm
+2025-08-20 15:44:27,365 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:27,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:27,624 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_passwd.pl
+2025-08-20 15:44:27,717 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:27,833 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:27,937 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/recipe/import/preview.css
+2025-08-20 15:44:28,058 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:28,158 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:28,247 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Project.t
+2025-08-20 15:44:28,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:28,479 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:28,587 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Root.t
+2025-08-20 15:44:28,667 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:28,757 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:28,874 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/14/001-auto-__VERSION.sql
+2025-08-20 15:44:28,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:29,093 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:29,196 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/21/001-auto-__VERSION.sql
+2025-08-20 15:44:29,341 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:29,443 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:29,560 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_cron.pl
+2025-08-20 15:44:29,655 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:29,747 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:29,878 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/DishIngredient.pm
+2025-08-20 15:44:30,006 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:30,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:30,215 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/15/001-auto.yml
+2025-08-20 15:44:30,326 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:30,444 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:30,579 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Tag.pm
+2025-08-20 15:44:30,710 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:30,808 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:30,912 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/5/001-auto-__VERSION.sql
+2025-08-20 15:44:31,014 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:31,127 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:31,216 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/24/001-auto.sql
+2025-08-20 15:44:31,334 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:31,452 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:31,557 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Article.t
+2025-08-20 15:44:31,648 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:31,728 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:31,826 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/23/001-auto-__VERSION.yml
+2025-08-20 15:44:31,918 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:31,997 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:32,116 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/6/001-auto.yml
+2025-08-20 15:44:32,245 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:32,334 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:32,428 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/user/register.css
+2025-08-20 15:44:32,517 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:32,629 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:32,762 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_users.pl
+2025-08-20 15:44:32,865 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:32,981 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:33,097 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/15/001-auto.sql
+2025-08-20 15:44:33,221 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:33,340 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:33,428 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/23/001-auto-__VERSION.sql
+2025-08-20 15:44:33,532 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:33,649 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:33,754 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/5/001-auto-__VERSION.yml
+2025-08-20 15:44:33,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:34,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:34,094 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Organization.pm
+2025-08-20 15:44:34,185 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:34,312 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:34,399 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/22/001-auto.sql
+2025-08-20 15:44:34,501 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:34,619 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:34,706 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/14/001-auto-__VERSION.yml
+2025-08-20 15:44:34,810 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:34,929 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:35,040 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/24/001-auto.yml
+2025-08-20 15:44:35,161 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:35,278 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:35,383 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/6/001-auto.sql
+2025-08-20 15:44:35,509 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:35,618 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:35,735 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/RoleUser.pm
+2025-08-20 15:44:35,841 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:35,928 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:36,033 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result.pm
+2025-08-20 15:44:36,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:36,230 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:36,340 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/BlacklistEmail.pm
+2025-08-20 15:44:36,448 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:36,540 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:36,679 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/purchase_list/edit.js
+2025-08-20 15:44:36,803 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:36,884 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:37,001 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/RecipeIngredient.pm
+2025-08-20 15:44:37,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:37,261 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:37,372 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Organization/Member.pm
+2025-08-20 15:44:37,509 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:37,618 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:37,695 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_PurchaseList.t
+2025-08-20 15:44:37,804 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:37,925 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:38,021 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/PurchaseList.pm
+2025-08-20 15:44:38,121 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:38,218 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:38,334 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Authentication/Store/DBIx/Class/User.pm
+2025-08-20 15:44:38,439 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:38,512 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:38,595 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/ResultSet/Blacklist.pm
+2025-08-20 15:44:38,681 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:38,782 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:38,896 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/dist.ini
+2025-08-20 15:44:39,020 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:39,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:39,242 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Terms.pm
+2025-08-20 15:44:39,348 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:39,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:39,572 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/themed-bootstrap/themed.scss
+2025-08-20 15:44:39,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:39,786 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:39,901 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/perltidy.t
+2025-08-20 15:44:39,992 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:40,083 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:40,169 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/ResultSet/Ingredient.pm
+2025-08-20 15:44:40,309 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:40,406 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:40,502 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/test_data_v21.sql
+2025-08-20 15:44:40,614 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:40,697 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:40,777 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Autocomplete.pm
+2025-08-20 15:44:40,894 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:40,969 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:41,104 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/9-10/001.sql
+2025-08-20 15:44:41,236 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:41,358 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:41,484 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/27/001-auto-__VERSION.sql
+2025-08-20 15:44:41,618 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:41,700 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:41,817 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Project.pm
+2025-08-20 15:44:41,904 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:41,990 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:42,086 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/project/import.js
+2025-08-20 15:44:42,179 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:42,263 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:42,349 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Recipe/Import.pm
+2025-08-20 15:44:42,441 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:42,550 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:42,637 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_docker.pl
+2025-08-20 15:44:42,757 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:42,837 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:42,919 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/3/001-auto-__VERSION.sql
+2025-08-20 15:44:43,020 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:43,130 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:43,243 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/4/001-auto.yml
+2025-08-20 15:44:43,339 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:43,438 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:43,547 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Plugin/UriForStatic.pm
+2025-08-20 15:44:43,637 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:43,719 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:43,815 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/User.pm
+2025-08-20 15:44:43,950 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:44,065 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:44,184 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Recipe_Import.t
+2025-08-20 15:44:44,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:44,361 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:44,476 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_test.pl
+2025-08-20 15:44:44,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:44,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:44,803 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/13/001-auto.yml
+2025-08-20 15:44:44,933 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:45,044 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:45,166 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/style.css
+2025-08-20 15:44:45,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:45,393 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:45,512 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/22/001-auto.sql
+2025-08-20 15:44:45,632 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:45,724 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:45,854 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/21/001-auto-__VERSION.yml
+2025-08-20 15:44:45,940 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:46,057 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:46,150 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/lib/TestDB.pm
+2025-08-20 15:44:46,265 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:46,395 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:46,501 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_get.pl
+2025-08-20 15:44:46,629 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:46,754 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:46,832 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/article/edit.js
+2025-08-20 15:44:46,965 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:47,047 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:47,132 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/12/001-auto-__VERSION.sql
+2025-08-20 15:44:47,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:47,325 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:47,431 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/02pod.t
+2025-08-20 15:44:47,519 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:47,645 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:47,742 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Meal.pm
+2025-08-20 15:44:47,848 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:47,942 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:48,043 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/19-20/001-auto.sql
+2025-08-20 15:44:48,168 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:48,292 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:48,423 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Error.pm
+2025-08-20 15:44:48,547 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:48,653 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:48,736 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Item.pm
+2025-08-20 15:44:48,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:48,955 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:49,077 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/4/001-auto.sql
+2025-08-20 15:44:49,167 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:49,268 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:49,360 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/22/001-auto.yml
+2025-08-20 15:44:49,475 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:49,590 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:49,682 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Autocomplete.t
+2025-08-20 15:44:49,787 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:49,890 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:49,973 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/API.pm
+2025-08-20 15:44:50,126 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:50,234 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:50,342 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/ShopSection.pm
+2025-08-20 15:44:50,485 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:50,596 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:50,714 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/12/001-auto-__VERSION.yml
+2025-08-20 15:44:50,823 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:50,927 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:51,039 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/13/001-auto.sql
+2025-08-20 15:44:51,140 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:51,261 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:51,362 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/21/001-auto-__VERSION.sql
+2025-08-20 15:44:51,465 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:51,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:51,656 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/3/001-auto-__VERSION.yml
+2025-08-20 15:44:51,753 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:51,853 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:51,941 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Authorization.t
+2025-08-20 15:44:52,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:52,130 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:52,221 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/16-17/001-rename-site-owner.sql
+2025-08-20 15:44:52,351 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:52,446 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:52,547 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/20-21/001-rename-old-tables.sql
+2025-08-20 15:44:52,646 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:52,726 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:52,820 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/print.css
+2025-08-20 15:44:52,902 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:53,000 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:53,093 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/shop_section/index.js
+2025-08-20 15:44:53,214 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:53,296 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:53,407 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/zxcvbn.js
+2025-08-20 15:44:53,530 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:53,628 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:53,720 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/private_project.t
+2025-08-20 15:44:53,826 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:53,915 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:54,008 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/12-13/fix-cascade.sql
+2025-08-20 15:44:54,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:54,228 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:54,328 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/ProjectImporter.pm
+2025-08-20 15:44:54,478 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:54,602 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:54,728 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/perlcritic.t
+2025-08-20 15:44:54,860 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:54,971 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:55,070 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Ajax/IngredientsEditor.pm
+2025-08-20 15:44:55,198 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:55,276 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:55,399 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/ShopSection.pm
+2025-08-20 15:44:55,504 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:55,606 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:55,722 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Item.pm
+2025-08-20 15:44:55,855 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:55,972 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:56,072 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/View/Email/TT.pm
+2025-08-20 15:44:56,172 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:56,262 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:56,372 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/7-8/002_default_user.pl
+2025-08-20 15:44:56,513 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:56,638 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:56,730 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/User.pm
+2025-08-20 15:44:56,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:56,935 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:57,023 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Terms.pm
+2025-08-20 15:44:57,161 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:57,277 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:57,384 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema.t
+2025-08-20 15:44:57,565 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:57,686 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:57,781 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Meal.pm
+2025-08-20 15:44:57,892 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:57,970 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:58,074 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Token.t
+2025-08-20 15:44:58,206 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:58,325 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:58,415 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/script.js
+2025-08-20 15:44:58,520 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:58,611 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:58,722 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/17/001-auto.yml
+2025-08-20 15:44:58,821 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:58,941 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:59,036 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/25/001-auto-__VERSION.yml
+2025-08-20 15:44:59,127 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:59,212 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:59,297 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/26/001-auto.sql
+2025-08-20 15:44:59,412 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:59,540 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:59,657 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/PurchaseList.pm
+2025-08-20 15:44:59,779 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:44:59,875 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:44:59,986 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/18-19/001-fix-real-columns.sql
+2025-08-20 15:45:00,094 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:00,193 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:00,329 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_ProjectImporter.t
+2025-08-20 15:45:00,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:00,539 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:00,666 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/7/001-auto-__VERSION.sql
+2025-08-20 15:45:00,792 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:00,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:01,011 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/8/001-auto.yml
+2025-08-20 15:45:01,134 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:01,230 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:01,345 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/ResultSet/ArticleOrUnit.pm
+2025-08-20 15:45:01,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:01,588 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:01,689 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_create.pl
+2025-08-20 15:45:01,808 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:01,937 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:02,038 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/16/001-auto-__VERSION.sql
+2025-08-20 15:45:02,133 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:02,228 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:02,316 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/23/001-auto-__VERSION.sql
+2025-08-20 15:45:02,433 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:02,548 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:02,625 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/00compile.t
+2025-08-20 15:45:02,757 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:02,844 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:02,941 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/ActionRole/RequiresCapability.pm
+2025-08-20 15:45:03,044 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:03,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:03,226 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Token.pm
+2025-08-20 15:45:03,321 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:03,415 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:03,517 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/purchase_list/index.js
+2025-08-20 15:45:03,642 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:03,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:03,844 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/26/001-auto.yml
+2025-08-20 15:45:03,952 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:04,052 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:04,161 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/8/001-auto.sql
+2025-08-20 15:45:04,291 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:04,400 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:04,529 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Deploy.pm
+2025-08-20 15:45:04,664 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:04,751 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:04,862 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/examples/coocook.yaml
+2025-08-20 15:45:04,991 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:05,086 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:05,180 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook.pm
+2025-08-20 15:45:05,291 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:05,395 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:05,476 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/24/001-auto.sql
+2025-08-20 15:45:05,600 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:05,693 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:05,800 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_dbck.pl
+2025-08-20 15:45:05,892 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:06,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:06,097 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Settings/ChangeEmail.pm
+2025-08-20 15:45:06,235 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:06,362 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:06,482 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/purchase_lists.t
+2025-08-20 15:45:06,583 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:06,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:06,776 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/25/001-auto-__VERSION.sql
+2025-08-20 15:45:06,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:07,025 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:07,120 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/7/001-auto-__VERSION.yml
+2025-08-20 15:45:07,253 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:07,339 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:07,457 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Project.pm
+2025-08-20 15:45:07,549 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:07,665 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:07,814 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Blacklist.t
+2025-08-20 15:45:07,916 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:08,027 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:08,160 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/17/001-auto.sql
+2025-08-20 15:45:08,266 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:08,378 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:08,514 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema.pm
+2025-08-20 15:45:08,610 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:08,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:08,795 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/16/001-auto-__VERSION.yml
+2025-08-20 15:45:08,927 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:09,019 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:09,117 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Authorization.pm
+2025-08-20 15:45:09,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:09,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:09,476 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Ingredients.t
+2025-08-20 15:45:09,589 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:09,684 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:09,776 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/4-5/001.sql
+2025-08-20 15:45:09,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:09,949 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:10,054 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/View/JSON.pm
+2025-08-20 15:45:10,152 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:10,263 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:10,369 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/UnitConversion.pm
+2025-08-20 15:45:10,471 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:10,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:10,641 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Settings.pm
+2025-08-20 15:45:10,757 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:10,844 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:10,935 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/recipes_of_the_day.t
+2025-08-20 15:45:11,029 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:11,146 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:11,245 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_server.pl
+2025-08-20 15:45:11,357 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:11,449 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:11,554 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/26/001-auto-__VERSION.sql
+2025-08-20 15:45:11,655 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:11,748 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:11,833 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/Test_Coocook.t
+2025-08-20 15:45:11,936 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:12,038 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:12,122 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller.pm
+2025-08-20 15:45:12,263 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:12,366 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:12,476 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/ProjectUser.pm
+2025-08-20 15:45:12,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:12,699 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:12,788 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/10-11/001-auto.sql
+2025-08-20 15:45:12,887 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:12,995 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:13,113 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/1-2/001-auto.sql
+2025-08-20 15:45:13,245 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:13,342 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:13,453 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Get.pm
+2025-08-20 15:45:13,554 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:13,650 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:13,801 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/19/001-auto-__VERSION.sql
+2025-08-20 15:45:13,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:14,012 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:14,094 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Browse_Recipe.t
+2025-08-20 15:45:14,200 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:14,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:14,442 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/26-27/001-auto.sql
+2025-08-20 15:45:14,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:14,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:14,783 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/27/001-auto.sql
+2025-08-20 15:45:14,896 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:14,986 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:15,102 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/Result/Boolify.pm
+2025-08-20 15:45:15,237 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:15,318 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:15,415 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/themed-bootstrap/themed.min.css
+2025-08-20 15:45:15,520 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:15,633 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:15,727 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/19/001-auto-__VERSION.yml
+2025-08-20 15:45:15,859 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:15,945 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:16,071 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Admin.t
+2025-08-20 15:45:16,201 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:16,325 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:16,433 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/8-9/001.sql
+2025-08-20 15:45:16,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:16,670 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:16,761 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/test_data.sql
+2025-08-20 15:45:16,868 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:16,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:17,074 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/20-21/002-deploy-fresh.pl
+2025-08-20 15:45:17,177 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:17,299 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:17,411 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Plugin/StrictTransportSecurity.pm
+2025-08-20 15:45:17,553 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:17,648 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:17,736 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/script_get.t
+2025-08-20 15:45:17,858 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:17,995 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:18,083 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/22-23/001-auto.sql
+2025-08-20 15:45:18,178 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:18,273 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:18,376 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/12/001-auto.sql
+2025-08-20 15:45:18,498 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:18,581 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:18,675 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/5-6/002_copy_project_data.pl
+2025-08-20 15:45:18,810 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:18,943 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:19,037 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/23-24/001-auto.sql
+2025-08-20 15:45:19,134 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:19,229 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:19,321 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Ingredients.pm
+2025-08-20 15:45:19,433 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:19,553 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:19,685 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Admin.pm
+2025-08-20 15:45:19,773 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:19,916 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:20,024 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/doc/entities.md
+2025-08-20 15:45:20,143 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:20,244 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:20,342 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/11/001-auto-__VERSION.yml
+2025-08-20 15:45:20,454 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:20,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:20,671 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/20/001-auto-__VERSION.sql
+2025-08-20 15:45:20,799 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:20,874 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:20,954 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/2/001-auto-__VERSION.yml
+2025-08-20 15:45:21,077 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:21,170 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:21,268 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Browse/Recipe.pm
+2025-08-20 15:45:21,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:21,466 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:21,591 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/21/001-auto.yml
+2025-08-20 15:45:21,705 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:21,830 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:21,949 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/3/001-auto.sql
+2025-08-20 15:45:22,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:22,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:22,270 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/3/001-auto.yml
+2025-08-20 15:45:22,389 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:22,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:22,615 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/organization_lifecycle.t
+2025-08-20 15:45:22,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:22,825 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:22,908 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/21/001-auto.sql
+2025-08-20 15:45:23,013 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:23,101 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:23,196 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/postgresql.t
+2025-08-20 15:45:23,308 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:23,405 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:23,525 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/11/001-auto-__VERSION.sql
+2025-08-20 15:45:23,638 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:23,742 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:23,835 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/12/001-auto.yml
+2025-08-20 15:45:23,943 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:24,055 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:24,135 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Permission.pm
+2025-08-20 15:45:24,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:24,358 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:24,466 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/20/001-auto-__VERSION.yml
+2025-08-20 15:45:24,559 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:24,659 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:24,745 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/captcha.t
+2025-08-20 15:45:24,878 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:25,009 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:25,105 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/2/001-auto-__VERSION.sql
+2025-08-20 15:45:25,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:25,353 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:25,454 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Organizations.pm
+2025-08-20 15:45:25,563 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:25,674 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:25,805 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Organization.pm
+2025-08-20 15:45:25,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:25,983 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:26,075 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/marked/LICENSE.md
+2025-08-20 15:45:26,181 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:26,268 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:26,417 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/6-7/001.sql
+2025-08-20 15:45:26,514 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:26,595 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:26,696 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/TermsUser.pm
+2025-08-20 15:45:26,798 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:26,935 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:27,030 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/21-22/001-auto.sql
+2025-08-20 15:45:27,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:27,247 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:27,346 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Filter/SignificantDigits.pm
+2025-08-20 15:45:27,479 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:27,556 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:27,683 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Email/ChangeEmail.pm
+2025-08-20 15:45:27,814 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:27,905 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:28,031 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/20-21/003-copy-back.sql
+2025-08-20 15:45:28,141 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:28,269 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:28,358 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Messages.pm
+2025-08-20 15:45:28,458 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:28,545 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:28,665 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Dbck.pm
+2025-08-20 15:45:28,819 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:28,909 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:29,042 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Unit.t
+2025-08-20 15:45:29,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:29,240 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:29,368 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/ProxyMethods.pm
+2025-08-20 15:45:29,468 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:29,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:29,635 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Role/HasDebug.pm
+2025-08-20 15:45:29,762 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:29,858 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:29,952 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/script_dbck.t
+2025-08-20 15:45:30,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:30,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:30,299 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/README.md
+2025-08-20 15:45:30,401 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:30,481 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:30,574 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/16/001-auto.sql
+2025-08-20 15:45:30,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:30,810 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:30,904 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/UnitConversion.pm
+2025-08-20 15:45:31,000 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:31,124 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:31,212 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/23/001-auto.sql
+2025-08-20 15:45:31,310 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:31,428 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:31,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/Filter_SignificantDigits.t
+2025-08-20 15:45:31,665 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:31,747 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:31,870 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/ProjectUser.pm
+2025-08-20 15:45:31,960 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:32,072 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:32,157 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/7/001-auto.sql
+2025-08-20 15:45:32,247 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:32,345 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:32,448 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/24/001-auto-__VERSION.sql
+2025-08-20 15:45:32,575 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:32,662 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:32,775 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/25/001-auto.yml
+2025-08-20 15:45:32,875 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:32,999 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:33,116 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_cgi.pl
+2025-08-20 15:45:33,206 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:33,296 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:33,393 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/6/001-auto-__VERSION.yml
+2025-08-20 15:45:33,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:33,625 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:33,753 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/25-26/001-auto.sql
+2025-08-20 15:45:33,888 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:33,982 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:34,070 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/24-25/001-auto.sql
+2025-08-20 15:45:34,226 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:34,302 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:34,396 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/15/001-auto-__VERSION.yml
+2025-08-20 15:45:34,528 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:34,651 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:34,731 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/25/001-auto.sql
+2025-08-20 15:45:34,840 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:34,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:35,044 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Organizations.t
+2025-08-20 15:45:35,134 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:35,221 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:35,329 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Recipe.t
+2025-08-20 15:45:35,423 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:35,511 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:35,606 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/15/001-auto-__VERSION.sql
+2025-08-20 15:45:35,706 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:35,835 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:35,931 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/16/001-auto.yml
+2025-08-20 15:45:36,046 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:36,164 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:36,269 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_Messages.t
+2025-08-20 15:45:36,376 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:36,470 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:36,562 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/22/001-auto-__VERSION.sql
+2025-08-20 15:45:36,693 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:36,807 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:36,904 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Print.pm
+2025-08-20 15:45:37,001 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:37,103 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:37,200 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/7/001-auto.yml
+2025-08-20 15:45:37,325 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:37,411 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:37,531 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/change_password.t
+2025-08-20 15:45:37,667 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:37,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:37,851 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/6/001-auto-__VERSION.sql
+2025-08-20 15:45:37,980 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:38,056 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:38,177 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Component/ResultSet/SortByName.pm
+2025-08-20 15:45:38,313 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:38,416 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:38,541 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/24/001-auto-__VERSION.yml
+2025-08-20 15:45:38,637 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:38,724 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:38,850 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Recipe.pm
+2025-08-20 15:45:38,979 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:39,073 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:39,200 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Admin/Terms.pm
+2025-08-20 15:45:39,330 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:39,408 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:39,496 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/FAQ.pm
+2025-08-20 15:45:39,603 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:39,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:39,815 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Badge.pm
+2025-08-20 15:45:39,921 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:40,023 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:40,150 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/autocomplete.js
+2025-08-20 15:45:40,252 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:40,344 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:40,457 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/14-15/001.sql
+2025-08-20 15:45:40,572 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:40,662 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:40,770 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/Util.t
+2025-08-20 15:45:40,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:40,965 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:41,090 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/bootstrap-theme.html
+2025-08-20 15:45:41,220 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:41,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:41,453 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Passwd.pm
+2025-08-20 15:45:41,575 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:41,672 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:41,758 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/web-dependencies.yaml
+2025-08-20 15:45:41,891 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:41,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:42,071 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/DB.pm
+2025-08-20 15:45:42,198 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:42,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:42,406 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/2-3/001-auto.sql
+2025-08-20 15:45:42,544 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:42,672 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:42,754 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Cron.pm
+2025-08-20 15:45:42,868 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:42,952 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:43,070 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/5-6/001.sql
+2025-08-20 15:45:43,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:43,274 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:43,398 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Users.pm
+2025-08-20 15:45:43,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:43,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:43,786 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/js/project/permissions.js
+2025-08-20 15:45:43,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:43,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:44,108 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/RecipeOfTheDay.pm
+2025-08-20 15:45:44,202 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:44,296 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:44,420 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Tag.pm
+2025-08-20 15:45:44,546 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:44,633 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:44,721 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/examples/dbic.yaml
+2025-08-20 15:45:44,842 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:44,954 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:45,053 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Dish.pm
+2025-08-20 15:45:45,176 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:45,287 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:45,376 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/4-5/002_url_names.pl
+2025-08-20 15:45:45,500 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:45,581 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:45,704 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/user_lifecycle.t
+2025-08-20 15:45:45,829 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:45,918 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:45,989 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/11-12/001-auto.sql
+2025-08-20 15:45:46,083 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:46,169 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:46,288 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/OrganizationUser.pm
+2025-08-20 15:45:46,433 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:46,515 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:46,595 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_ProjectUser.t
+2025-08-20 15:45:46,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:46,831 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:46,935 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/22/001-auto-__VERSION.sql
+2025-08-20 15:45:47,060 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:47,149 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:47,264 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/4/001-auto-__VERSION.yml
+2025-08-20 15:45:47,357 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:47,472 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:47,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/13/001-auto-__VERSION.yml
+2025-08-20 15:45:47,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:47,785 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:47,874 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_fastcgi.pl
+2025-08-20 15:45:48,001 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:48,102 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:48,199 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/23/001-auto.yml
+2025-08-20 15:45:48,300 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:48,425 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:48,511 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/5/001-auto.sql
+2025-08-20 15:45:48,640 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:48,715 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:48,791 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Badge.t
+2025-08-20 15:45:48,883 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:49,016 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:49,115 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/14/001-auto.sql
+2025-08-20 15:45:49,256 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:49,344 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:49,453 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/21/001-auto.sql
+2025-08-20 15:45:49,583 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:49,685 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:49,789 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/ArticleTag.pm
+2025-08-20 15:45:49,897 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:49,986 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:50,108 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/4/001-auto-__VERSION.sql
+2025-08-20 15:45:50,242 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:50,329 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:50,452 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/cascade_delete.t
+2025-08-20 15:45:50,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:50,683 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:50,780 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Terms.pm
+2025-08-20 15:45:50,876 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:50,987 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:51,101 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/24-25/001-auto.sql
+2025-08-20 15:45:51,216 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:51,346 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:51,471 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/23-24/001-auto.sql
+2025-08-20 15:45:51,583 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:51,675 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:51,760 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/TestDB.t
+2025-08-20 15:45:51,891 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:51,990 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:52,132 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/script_passwd.t
+2025-08-20 15:45:52,229 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:52,323 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:52,405 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/22/001-auto-__VERSION.yml
+2025-08-20 15:45:52,505 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:52,591 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:52,671 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/23/001-auto.sql
+2025-08-20 15:45:52,799 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:52,896 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:53,020 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/css/autocomplete.css
+2025-08-20 15:45:53,119 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:53,220 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:53,318 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/15-16/001-auto.sql
+2025-08-20 15:45:53,436 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:53,526 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:53,611 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Article.pm
+2025-08-20 15:45:53,712 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:53,832 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:53,950 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/14/001-auto.yml
+2025-08-20 15:45:54,066 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:54,173 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:54,268 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Util.pm
+2025-08-20 15:45:54,369 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:54,448 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:54,556 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/5/001-auto.yml
+2025-08-20 15:45:54,694 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:54,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:54,876 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/13/001-auto-__VERSION.sql
+2025-08-20 15:45:54,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:55,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:55,147 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Unit.pm
+2025-08-20 15:45:55,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:55,385 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:55,494 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/schema_Component_Boolify.t
+2025-08-20 15:45:55,605 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:55,710 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:55,834 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/script_users.t
+2025-08-20 15:45:55,940 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:56,044 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:56,145 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/1/001-auto.sql
+2025-08-20 15:45:56,279 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:56,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:56,481 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Item.t
+2025-08-20 15:45:56,596 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:56,685 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:56,776 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Unit.pm
+2025-08-20 15:45:56,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:56,990 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:57,065 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Tag.pm
+2025-08-20 15:45:57,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:57,279 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:57,385 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/script/coocook_deploy.pl
+2025-08-20 15:45:57,519 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:57,600 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:57,687 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/RecipeOfTheDay.pm
+2025-08-20 15:45:57,818 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:57,918 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:58,023 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/sqlite.t
+2025-08-20 15:45:58,118 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:58,198 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:58,306 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/01app.t
+2025-08-20 15:45:58,402 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:58,498 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:58,619 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/7-8/001.sql
+2025-08-20 15:45:58,738 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:58,866 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:58,993 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/10/001-auto.sql
+2025-08-20 15:45:59,103 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:59,223 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:59,318 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Admin/User.pm
+2025-08-20 15:45:59,434 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:59,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:59,661 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/13-14/001-auto.sql
+2025-08-20 15:45:59,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:45:59,870 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:45:59,962 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Project.pm
+2025-08-20 15:46:00,061 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:00,185 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:00,278 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/OrganizationProject.pm
+2025-08-20 15:46:00,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:00,484 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:00,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/RecipeImporter.pm
+2025-08-20 15:46:00,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:00,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:00,886 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/21-22/001-auto.sql
+2025-08-20 15:46:00,982 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:01,102 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:01,203 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/22-23/001-auto.sql
+2025-08-20 15:46:01,313 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:01,409 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:01,513 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_User.t
+2025-08-20 15:46:01,643 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:01,768 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:01,849 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/1/001-auto.yml
+2025-08-20 15:46:01,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:02,036 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:02,128 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/PurchaseList.pm
+2025-08-20 15:46:02,247 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:02,329 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:02,456 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/17-18/002-email_fc.sql
+2025-08-20 15:46:02,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:02,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:02,809 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/10/001-auto.yml
+2025-08-20 15:46:02,911 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:02,994 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:03,114 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/17/001-auto-__VERSION.yml
+2025-08-20 15:46:03,259 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:03,338 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:03,449 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Recipe.pm
+2025-08-20 15:46:03,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:03,667 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:03,761 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/9/001-auto.sql
+2025-08-20 15:46:03,893 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:04,015 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:04,112 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/27/001-auto.yml
+2025-08-20 15:46:04,246 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:04,363 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:04,465 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Script/Role/HasSchema.pm
+2025-08-20 15:46:04,579 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:04,700 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:04,814 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Session.pm
+2025-08-20 15:46:04,935 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:05,010 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:05,130 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Item.pm
+2025-08-20 15:46:05,253 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:05,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:05,467 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/26/001-auto-__VERSION.sql
+2025-08-20 15:46:05,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:05,696 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:05,787 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/8/001-auto-__VERSION.yml
+2025-08-20 15:46:05,876 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:05,999 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:06,082 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/ArticleUnit.pm
+2025-08-20 15:46:06,201 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:06,303 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:06,432 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/root/static/lib/themed-bootstrap/themed.css
+2025-08-20 15:46:06,559 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:06,669 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:06,790 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/25/001-auto.sql
+2025-08-20 15:46:06,889 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:06,988 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:07,102 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/RecipeTag.pm
+2025-08-20 15:46:07,238 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:07,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:07,436 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/18/001-auto.sql
+2025-08-20 15:46:07,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:07,663 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:07,743 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/Article.pm
+2025-08-20 15:46:07,859 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:07,976 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:08,091 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/26/001-auto-__VERSION.yml
+2025-08-20 15:46:08,203 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:08,298 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:08,434 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/DishTag.pm
+2025-08-20 15:46:08,535 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:08,617 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:08,753 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/3-4/001.sql
+2025-08-20 15:46:08,848 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:08,947 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:09,055 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/8/001-auto-__VERSION.sql
+2025-08-20 15:46:09,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:09,259 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:09,371 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/17-18/001-auto.sql
+2025-08-20 15:46:09,460 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:09,593 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:09,703 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/model_RecipeImporter.t
+2025-08-20 15:46:09,842 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:09,934 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:10,057 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/Meal.pm
+2025-08-20 15:46:10,166 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:10,279 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:10,403 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/9/001-auto.yml
+2025-08-20 15:46:10,512 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:10,617 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:10,714 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Model/Autocomplete.pm
+2025-08-20 15:46:10,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:10,927 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:11,037 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/ResultSet/Dish.pm
+2025-08-20 15:46:11,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:11,246 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:11,380 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/17/001-auto-__VERSION.sql
+2025-08-20 15:46:11,506 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:11,605 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:11,733 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Schema/Result/OrganizationUser.pm
+2025-08-20 15:46:11,836 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:11,919 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:12,030 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/_source/deploy/18/001-auto.yml
+2025-08-20 15:46:12,119 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:12,199 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:12,293 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/deploy/24/001-auto-__VERSION.sql
+2025-08-20 15:46:12,383 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:12,465 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:12,581 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/PostgreSQL/upgrade/25-26/001-auto.sql
+2025-08-20 15:46:12,718 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:12,878 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:12,963 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/View/Email.pm
+2025-08-20 15:46:13,082 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:13,162 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:13,262 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/26-27/001-auto.sql
+2025-08-20 15:46:13,380 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:13,484 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:13,598 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/User.pm
+2025-08-20 15:46:13,715 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:13,798 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:13,901 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/deploy/27/001-auto.sql
+2025-08-20 15:46:13,999 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:14,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:14,193 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/t/controller_Project.t
+2025-08-20 15:46:14,303 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:14,416 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:14,511 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/share/ddl/SQLite/upgrade/8-9/usernames_fc.pl
+2025-08-20 15:46:14,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/coocook-161508.git:kavia-179-recipe-from-dish
+2025-08-20 15:46:14,674 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f3372eb7650>
+2025-08-20 15:46:14,769 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/161508/b62523c/coocook-161508/lib/Coocook/Controller/ShopSection.pm
+2025-08-20 15:46:14,885 - Knowledge - INFO - load persisted knowledge: end
+2025-08-20 15:46:15,008 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-20 15:46:15,089 - Knowledge - INFO - load persisted docinfo: end
+2025-08-20 15:46:16,070 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-20 15:46:16,172 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-20 15:46:16,254 - Knowledge - INFO - Knowledge creation complete
+2025-08-20 15:46:16,352 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-20 15:46:17,184 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-20 15:46:17,381 - Knowledge - INFO - Knowledge saved to Redis successfully
